@@ -2,71 +2,36 @@
 This project focuses on building a Loan Eligibility Prediction System and automating the loan application workflow using Machine Learning techniques. It aims to streamline the traditional loan approval process by reducing manual intervention, minimizing bias, and improving decision-making using data-driven insights.
 
 # Project Overview
-
 Traditional loan approval systems are often slow and inconsistent due to manual review. This project solves that by:
-
 Predicting whether an applicant is eligible for a loan using ML.
-
 Providing a centralized interface to manage loan applications.
-
 Automating major steps in the loan workflow.
-
 Improving accuracy and consistency with data-driven models.
 
-📂 Repository Structure
-Loan_Eligibility_Prediction_and_Application_Automation_ML/
-│
-├── Loan Eligibility Prediction and Application Automation Project.ipynb
-├── Loan_Eligibility_Dataset.csv
-├── README.md   (you will add this file)
-└── assets/     (optional: add images, diagrams, etc.)
-
-🧠 Machine Learning Workflow
-
+# Machine Learning Workflow
 Data Loading – Imported dataset of loan applicants.
-
 Data Preprocessing
-
 Handling missing values
-
 Feature encoding
-
 Data normalization (if needed)
-
 Exploratory Data Analysis (EDA)
-
 Distribution of features
-
 Correlation analysis
-
 Model Building
-
 Logistic Regression
-
 Random Forest
-
 Decision Tree
-
 Support Vector Machine (optional)
-
 Model Evaluation
-
 Accuracy
-
 Precision
-
 Recall
-
 Confusion Matrix
-
 Predictive System
-
 User inputs applicant details
-
 Model predicts Eligible / Not Eligible
 
-📊 Dataset Information
-
+# Dataset Information
 The dataset includes fields such as:
 
 Applicant Income
