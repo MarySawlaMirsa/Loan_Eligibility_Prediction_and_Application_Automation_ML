@@ -1,37 +1,59 @@
 # Loan_Eligibility_Prediction_and_Application_Automation_ML
-This project focuses on building a Loan Eligibility Prediction System and automating the loan application workflow using Machine Learning techniques. It aims to streamline the traditional loan approval process by reducing manual intervention, minimizing bias, and improving decision-making using data-driven insights.
+This project focuses on building a Loan eligibility prediction system and automating the loan application workflow using Machine Learning techniques. It aims to streamline the traditional loan approval process by reducing manual intervention, minimizing bias, and improving decision-making using data-driven insights.
 
-# Project Overview
+## Project Overview 
 Traditional loan approval systems are often slow and inconsistent due to manual review. This project solves that by:
 Predicting whether an applicant is eligible for a loan using ML.
 Providing a centralized interface to manage loan applications.
 Automating major steps in the loan workflow.
 Improving accuracy and consistency with data-driven models.
 
-# Machine Learning Workflow
-Data Loading – Imported dataset of loan applicants.
+## Machine Learning Workflow
+
+Data Loading – Imported dataset of loan applicants
+
 Data Preprocessing
+
 Handling missing values
+
 Feature encoding
-Data normalization (if needed)
-Exploratory Data Analysis (EDA)
+
+Data normalization 
+
+Exploratory Data Analysis 
+
 Distribution of features
+
 Correlation analysis
+
 Model Building
+
 Logistic Regression
+
 Random Forest
+
 Decision Tree
-Support Vector Machine (optional)
+
+Support Vector Machine 
+
 Model Evaluation
+
 Accuracy
+
 Precision
+
 Recall
+
 Confusion Matrix
+
 Predictive System
+
 User inputs applicant details
+
 Model predicts Eligible / Not Eligible
 
-# Dataset Information
+## Dataset Information
+
 The dataset includes fields such as:
 
 Applicant Income
@@ -52,7 +74,7 @@ Property Area
 
 Target Variable (Loan_Status)
 
-🛠️ Technologies Used
+## Technologies Used
 
 Python
 
@@ -62,11 +84,11 @@ Pandas
 
 Scikit-learn
 
-Matplotlib / Seaborn (optional)
+Matplotlib / Seaborn 
 
 Jupyter Notebook
 
-📌 Key Features
+## Key Features
 
 End-to-end ML pipeline
 
@@ -76,7 +98,7 @@ Clean, reproducible notebook
 
 Real-world dataset
 
-📝 How to Run the Project
+## How to Run the Project
 
 Install dependencies:
 
@@ -91,10 +113,10 @@ jupyter notebook
 Run the cells in:
 Loan Eligibility Prediction and Application Automation Project.ipynb
 
-🤝 Contributions
+## Contributions
 
 Feel free to fork this repository, create a branch, and submit a pull request.
 
-📄 License
+## License
 
 This project is open-source under the MIT License.
