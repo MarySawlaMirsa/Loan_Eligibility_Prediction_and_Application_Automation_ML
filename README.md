@@ -1,7 +1,7 @@
 # Loan_Eligibility_Prediction_and_Application_Automation_ML
 This project focuses on building a Loan Eligibility Prediction System and automating the loan application workflow using Machine Learning techniques. It aims to streamline the traditional loan approval process by reducing manual intervention, minimizing bias, and improving decision-making using data-driven insights.
 
-🚀 Project Overview
+# Project Overview
 
 Traditional loan approval systems are often slow and inconsistent due to manual review. This project solves that by:
 
